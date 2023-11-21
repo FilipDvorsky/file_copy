@@ -8,7 +8,7 @@ import javafx.beans.value.ObservableValue;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
-import javafx.scene.control.ProgressBar;
+//import javafx.scene.control.ProgressBar;
 import javafx.scene.control.TextField;
 import sk.upjs.kopr.file_copy.client.Client;
 import javafx.beans.value.ChangeListener;
@@ -16,11 +16,12 @@ import javafx.beans.value.ChangeListener;
 
 public class HlavneOknoController {
 
-	
+	/*
     @FXML
     private ProgressBar progressBar1;
     @FXML
     private ProgressBar progressBar2;
+    */
     @FXML
     private Button startButton;
     @FXML
